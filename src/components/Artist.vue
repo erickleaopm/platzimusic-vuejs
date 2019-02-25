@@ -12,6 +12,10 @@
 </script>
 
 <style lang="stylus" scoped>
+  ul
+    display flex
+    flex-direction row
+    flex-wrap wrap
   li
     display block
     margin 10px 0
