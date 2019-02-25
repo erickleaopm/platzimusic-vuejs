@@ -72,6 +72,9 @@ h1, h2
   font-weight normal
 
 ul
+  display flex
+  flex-direction row
+  flex-wrap wrap
   list-style-type none
   padding 0
 
